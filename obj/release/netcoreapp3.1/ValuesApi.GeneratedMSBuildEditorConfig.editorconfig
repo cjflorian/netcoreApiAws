@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = ValuesApi
+build_property.ProjectDir = C:\dotnet\ValuesApi\src\ValuesApi\

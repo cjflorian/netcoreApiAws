@@ -1,0 +1,14 @@
+C:\dotnet\ValuesApi\src\ValuesApi\bin\release\netcoreapp3.1\publish\ValuesApi.exe
+C:\dotnet\ValuesApi\src\ValuesApi\bin\release\netcoreapp3.1\publish\appsettings.Development.json
+C:\dotnet\ValuesApi\src\ValuesApi\bin\release\netcoreapp3.1\publish\appsettings.json
+C:\dotnet\ValuesApi\src\ValuesApi\bin\release\netcoreapp3.1\publish\aws-lambda-tools-defaults.json
+C:\dotnet\ValuesApi\src\ValuesApi\bin\release\netcoreapp3.1\publish\ValuesApi.dll
+C:\dotnet\ValuesApi\src\ValuesApi\bin\release\netcoreapp3.1\publish\ValuesApi.deps.json
+C:\dotnet\ValuesApi\src\ValuesApi\bin\release\netcoreapp3.1\publish\ValuesApi.runtimeconfig.json
+C:\dotnet\ValuesApi\src\ValuesApi\bin\release\netcoreapp3.1\publish\ValuesApi.pdb
+C:\dotnet\ValuesApi\src\ValuesApi\bin\release\netcoreapp3.1\publish\Amazon.Lambda.APIGatewayEvents.dll
+C:\dotnet\ValuesApi\src\ValuesApi\bin\release\netcoreapp3.1\publish\Amazon.Lambda.ApplicationLoadBalancerEvents.dll
+C:\dotnet\ValuesApi\src\ValuesApi\bin\release\netcoreapp3.1\publish\Amazon.Lambda.AspNetCoreServer.dll
+C:\dotnet\ValuesApi\src\ValuesApi\bin\release\netcoreapp3.1\publish\Amazon.Lambda.Core.dll
+C:\dotnet\ValuesApi\src\ValuesApi\bin\release\netcoreapp3.1\publish\Amazon.Lambda.Logging.AspNetCore.dll
+C:\dotnet\ValuesApi\src\ValuesApi\bin\release\netcoreapp3.1\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
